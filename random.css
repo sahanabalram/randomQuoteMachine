@@ -1,0 +1,16 @@
+.block{
+    background-color: crimson;
+    opacity: .9;
+    color: white;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+}
+body {
+    background-color: lightpink;
+    font-family: monospace;
+}
